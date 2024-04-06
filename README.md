@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! I'm Michael Tio, and here you'll find a collecti
 ## Skills 🛠️
 - Programming Languages: C, C#, C++, Python, Java, JavaScript
 - Web Development Frameworks: Next.js, Express.js, Laravel, React
-- Database: Prisma
+- Database: Prisma, MySQL
 - Version Control: Git
 
 ## Competitive Programming 🏆
