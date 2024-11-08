@@ -8,7 +8,3 @@ Welcome to my GitHub portfolio! I'm Michael Tio, and here you'll find a collecti
 - Database: MySQL, PostgreSQL, MongoDB, SQLite3, Firebase
 - Version Control: Git
 
-## Competitive Programming 🏆
-I have a keen interest in competitive programming and enjoy participating in coding competitions. I believe it enhances problem-solving skills and sharpens algorithmic thinking.
-
-Thank you for visiting my portfolio! 😊
