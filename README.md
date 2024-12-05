@@ -1,10 +1,29 @@
-# Michael Tio's Portfolio 🚀
+# Michael Tio
 
-Welcome to my GitHub portfolio! I'm Michael Tio, and here you'll find a collection of projects that showcase my skills and experience in various technologies and programming languages.
+Hi there! I'm Tio, a passionate software engineer with experience in backend and frontend development, cloud technologies, and Linux-based systems. I love solving complex problems and building scalable applications. Here are a few things I specialize in:
 
-## Skills 🛠️
-- Programming Languages: C, C#, C++, Python, Java, JavaScript
-- Web Development Frameworks: Next.js, Express.js, Laravel, React
-- Database: MySQL, PostgreSQL, MongoDB, SQLite3, Firebase
-- Version Control: Git
+## 🚀 Technologies & Tools
 
+### 🌐 Web Development:
+- **Frameworks**:
+  - Express (Node.js)
+  - Gin (Go)
+  - Laravel (PHP)
+  - NextJs (Javascript/Typescript)
+
+- **Library**:
+  - React.js
+  - ChakraUi
+  - Zod
+  - BCrypt
+  - Prisma
+  - JWT
+
+### 🖥️ DevOps & Infrastructure:
+- **Docker** - Containerization and deployment
+- **Kubernetes** - Container orchestration and management
+- **Linux** - System administration, bash scripting, and automation
+
+---
+
+*Proudly built with Docker, Kubernetes, and Linux!*
