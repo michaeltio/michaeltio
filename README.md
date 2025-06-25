@@ -1,6 +1,6 @@
 # Michael Tio
 
-Hi there! I'm Tio, a passionate software engineer with experience in backend and frontend development, cloud technologies, and Linux-based systems. I love solving complex problems and building scalable applications. Here are a few things I specialize in:
+Hi there! I'm Tio, a passionate software engineer with experience in backend and frontend development, cloud technologies, and Linux-based systems. I love solving complex problems and building scalable applications. I'm also deeply interested in **Web3 applications** and the **blockchain ecosystem**, and I’m continuously exploring how decentralized technologies can reshape the digital world.
 
 ## 🚀 Technologies & Tools
 
@@ -9,21 +9,20 @@ Hi there! I'm Tio, a passionate software engineer with experience in backend and
   - Express (Node.js)
   - Gin (Go)
   - Laravel (PHP)
-  - NextJs (Javascript/Typescript)
+  - Next.js (JavaScript/TypeScript)
 
-- **Library**:
-  - React.js
-  - ChakraUi
-  - Zod
-  - BCrypt
-  - Prisma
-  - JWT
+- **Libraries**:
+  - React.js  
+  - Chakra UI  
+  - Zod  
+  - Bcrypt  
+  - Prisma  
+  - JWT  
 
 ### 🖥️ DevOps & Infrastructure:
-- **Docker** - Containerization and deployment
-- **Kubernetes** - Container orchestration and management
-- **Linux** - System administration, bash scripting, and automation
+- **Docker** – Containerization and deployment  
+- **Linux** – System administration, bash scripting, and automation  
 
 ---
 
-*Proudly built with Docker, Kubernetes, and Linux!*
+*Proudly built with Docker and Linux — with a passion for Web3 innovation.*
