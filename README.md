@@ -1,7 +1,6 @@
 # Michael Tio 👨‍💻
 
-Hi there! I'm **Tio**, a passionate software engineer with experience in backend and frontend development, cloud technologies, and Linux-based systems. I love solving complex problems and building scalable applications. I'm also deeply interested in **Web3 applications** and the **blockchain ecosystem**, and I'm continuously exploring how decentralized technologies can reshape the digital world.
-
+Hi there! I'm Tio, a passionate software engineer with expertise in full-stack development and cloud technologies. I specialize in building scalable web applications and have a strong focus on Web3 and blockchain development. I love solving complex problems and creating innovative solutions that bridge traditional web technologies with decentralized systems.
 ---
 
 ## 🚀 Technologies & Tools
