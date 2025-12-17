@@ -36,7 +36,7 @@ Hi there! I'm Tio, a passionate software engineer with expertise in full-stack d
 <!-- ![LayerZero](https://img.shields.io/badge/LayerZero-000000?style=for-the-badge) -->
 
 ### ⛓️ Chains
-![EVM](https://img.shields.io/badge/EVM-Compatible-3C3C3D?style=for-the-badge)
+![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge)
 <!-- ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)  -->
 <!-- ![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white)  -->
 <!-- ![BSC](https://img.shields.io/badge/Binance%20Smart%20Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)  -->
