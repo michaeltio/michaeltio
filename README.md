@@ -24,14 +24,14 @@ Hi there! I'm Tio, a passionate software engineer with expertise in full-stack d
 
 #### **Libraries:**
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-FF6B35?style=for-the-badge)
+![Drizzle](https://img.shields.io/badge/Drizzle-FF6B35?style=for-the-badge&logo=drizzle&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 ### 🛠️ **Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethers&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 <!-- ![LayerZero](https://img.shields.io/badge/LayerZero-000000?style=for-the-badge) -->
 
