@@ -27,6 +27,8 @@ Hi there! I'm Tio, a passionate software engineer with expertise in full-stack d
 ![Drizzle](https://img.shields.io/badge/Drizzle-FF6B35?style=for-the-badge&logo=drizzle&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![wagmi](https://img.shields.io/badge/wagmi-000000?style=for-the-badge&logo=wagmi&logoColor=white)
+![viem](https://img.shields.io/badge/viem-1A1A1A?style=for-the-badge&logo=viem&logoColor=white)
 
 ### 🛠️ **Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
