@@ -20,7 +20,7 @@ Hi there! I'm Tio, a passionate software engineer with expertise in full-stack d
 ![Go Fiber](https://img.shields.io/badge/Go%20Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-<!--  ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge) -->
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge) 
 
 #### **Libraries:**
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
